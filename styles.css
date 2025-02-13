@@ -1,0 +1,47 @@
+body { 
+    font-family: 'Arial', sans-serif; 
+    background-color: #333;
+     color: #fff; 
+    margin: 0;
+    padding: 0;
+     display: flex; 
+     justify-content: center; 
+     align-items: center; 
+     height: 100vh;
+    }
+
+    
+.container ¨{
+ display: flex; 
+max-width: 1200px;
+width: 100%;
+padding: 20px;
+}
+
+
+.content { 
+    flex: 1; 
+    padding-right: 20px;
+ } 
+ 
+ .content h1 {
+     font-size: 1.5rem;
+     color: #fff;
+     margin-bottom: 10px; 
+} 
+    
+.content h1 span { 
+        color: #f4a700; }
+
+        .coke-details img { 
+            width: 100px; } 
+        
+        .coke-details h2 
+        { font-size: 3rem; 
+        margin: 10px 0; } 
+
+        .coke-details p { 
+        font-size: 1.2rem;
+          margin: 10px 0; }   
+
+          .description { font-size: 1rem; color: #bbb; }  
